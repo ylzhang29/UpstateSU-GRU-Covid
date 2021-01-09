@@ -1,7 +1,7 @@
 # UpstateSU-GRU-Covid
-Covid Forecast from SUNY Upstate Medical University and Syracuse University Team
+COVID-19 Forecast from SUNY Upstate Medical University and Syracuse University Team
 
-Methods: County-level forecast using recurrent neural network seq2seq model with the Gated recurrent units (GRU)
+Methods: County-level COVID-19 forecast using recurrent neural network seq2seq model with the Gated recurrent units (GRU)
 
 Model_contributors: 
   Yanli Zhang-James (SUNY Upstate Medical University) <zhangy@upstate.edu>, 
