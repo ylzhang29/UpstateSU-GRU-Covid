@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>UpstateSU-GRU-Covid Visualization</title>
+  </head>
+  <body>
+    <div class="viewof-selectWeek"></div>
+    <div class="viewof-selectChannel"></div>
+    <div class="chart"></div>
+    <p>
+      Observable Notebook:
+      <a href="https://observablehq.com/d/91c845853e2a1ef0"
+        >COVID Predictions by midnightpineapple</a
+      >
+    </p>
+
+    <script type="module">
+      import {
+        Runtime,
+        Inspector,
+      } from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+      import define from "https://api.observablehq.com/d/91c845853e2a1ef0.js?v=3";
+      new Runtime().module(define, (name) => {
+        if (name === "viewof selectWeek")
+          return Inspector.into(".viewof-selectWeek")();
+        if (name === "viewof selectChannel")
+          return Inspector.into(".viewof-selectChannel")();
+        if (name === "chart") return Inspector.into(".chart")();
+        return ["filteredData"].includes(name) || null;
+      });
+    </script>
+  </body>
+</html>
