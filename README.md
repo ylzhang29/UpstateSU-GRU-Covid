@@ -1,5 +1,5 @@
 # UpstateSU-GRU COVID-19 Forecast
-COVID-19 Forecast from SUNY Upstate Medical University and Syracuse University Team (Team name: UpstateSU; Model name: GRU)
+COVID-19 Forecast from SUNY Upstate Medical University and Syracuse University Team
 
 Methods: County-level COVID-19 forecast using recurrent neural network seq2seq model with the Gated recurrent units (GRU)
 
@@ -12,7 +12,7 @@ Methods: County-level COVID-19 forecast using recurrent neural network seq2seq m
 
 ### Visualize Additional Forecast Results
 
-[County-Level Predictions of R values and Deaths For Next 4 Weeks on Chloropleth US Map](https://ylzhang29.github.io/UpstateSU-GRU-Covid)
+[County-Level Predictions of R values and Deaths For The Next 4 Weeks on Chloropleth US Map](https://ylzhang29.github.io/UpstateSU-GRU-Covid)
 
 [<img src="https://github.com/ylzhang29/UpstateSU-GRU-Covid/blob/main/docs/map-icon.png" width=400>](https://ylzhang29.github.io/UpstateSU-GRU-Covid)
 
@@ -23,7 +23,7 @@ Methods: County-level COVID-19 forecast using recurrent neural network seq2seq m
 
 
 
-#### Model_contributors: 
+#### Team "UpstateSU" Contributor: 
   * Yanli Zhang-James (SUNY Upstate Medical University) <zhangy@upstate.edu>, 
   * Asif Salekin (Syracuse University) <asalekin@syr.edu>, 
   * Jonathan Hess (SUNY Upstate Medical University) <hessjlmsg@gmail.com>, 
