@@ -1,5 +1,5 @@
 # UpstateSU-GRU COVID-19 Forecast
-COVID-19 Forecast from SUNY Upstate Medical University and Syracuse University Team
+COVID-19 Forecast from SUNY Upstate Medical University and Syracuse University Team (Team name: UpstateSU; Model name: GRU)
 
 Methods: County-level COVID-19 forecast using recurrent neural network seq2seq model with the Gated recurrent units (GRU)
 
