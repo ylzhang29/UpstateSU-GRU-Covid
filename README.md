@@ -17,8 +17,8 @@ Methods: County-level COVID-19 forecast using recurrent neural network seq2seq m
 [<img src="https://github.com/ylzhang29/UpstateSU-GRU-Covid/blob/main/docs/map-icon.png" width=400>](https://ylzhang29.github.io/UpstateSU-GRU-Covid)
 
 
-#### Visualize How Our Model Contribute To The Ensemble Model That CDC Uses (https://viz.covid19forecasthub.org/)
-#### Additional Information on the Ensemble Forecast And Participating Teams (The COVID-19 Forecat Hub by The Reich Lab)https://github.com/reichlab/covid19-forecast-hub/blob/master/README.md)
+#### Visualize How Our Model Contributed To The Ensemble Model That CDC Uses (https://viz.covid19forecasthub.org/)
+   * Additional Information on the Ensemble Forecast And Participating Teams (The COVID-19 Forecat Hub by The Reich Lab) (https://github.com/reichlab/covid19-forecast-hub/blob/master/README.md)
 
 
 
