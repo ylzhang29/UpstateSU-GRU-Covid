@@ -17,6 +17,9 @@ Methods: County-level COVID-19 forecast using recurrent neural network seq2seq m
 [<img src="https://github.com/ylzhang29/UpstateSU-GRU-Covid/blob/main/docs/map-icon.png" width=400>](https://ylzhang29.github.io/UpstateSU-GRU-Covid)
 
 
+### Visualize How Our Model Contributed The Ensemble Model That CDC Uses (https://viz.covid19forecasthub.org/)
+
+
 
 #### Model_contributors: 
   * Yanli Zhang-James (SUNY Upstate Medical University) <zhangy@upstate.edu>, 
