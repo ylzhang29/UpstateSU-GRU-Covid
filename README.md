@@ -10,7 +10,7 @@ Forecast Date: Jan 09, 2021
  <img src="https://github.com/ylzhang29/UpstateSU-GRU-Covid/blob/main/Forecast/Onondaga_cases_deaths_0109.jpg" width="850" alt="chart">
 </a>
 
-[Visualize County-Level Predictions on Chloropleth US Map](https://ylzhang29.github.io/UpstateSU-GRU-Covid)
+[Visualize All County-Level Predictions For Next 4 Weeks on Chloropleth US Map](https://ylzhang29.github.io/UpstateSU-GRU-Covid)
 
 Model_contributors: 
   Yanli Zhang-James (SUNY Upstate Medical University) <zhangy@upstate.edu>, 
