@@ -3,7 +3,11 @@ COVID-19 Forecast from SUNY Upstate Medical University and Syracuse University T
 
 Methods: County-level COVID-19 forecast using recurrent neural network seq2seq model with the Gated recurrent units (GRU)
 
-[Visualize Predictions on Chloropleth Map](https://ylzhang29.github.io/UpstateSU-GRU-Covid)
+<a [US New Cases Prediction (as of 01-09-2021]>
+ <img src="https://github.com/ylzhang29/UpstateSU-GRU-Covid/blob/main/Forecast/US_inc_cases_0109.png" width="500" alt="chart">
+</a>
+
+[Visualize County-Level Predictions on Chloropleth Map](https://ylzhang29.github.io/UpstateSU-GRU-Covid)
 
 Model_contributors: 
   Yanli Zhang-James (SUNY Upstate Medical University) <zhangy@upstate.edu>, 
