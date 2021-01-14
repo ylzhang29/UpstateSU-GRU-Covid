@@ -4,9 +4,7 @@
     <title>UpstateSU-GRU-Covid Visualization</title>
   </head>
   <body>
-    <div class="viewof-selectWeek"></div>
-    <div class="viewof-selectChannel"></div>
-    <div class="chart"></div>
+    <div class="viewof-view"></div>
 
     <script type="module">
       import {
@@ -14,14 +12,11 @@
         Inspector,
       } from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
       import define from "https://api.observablehq.com/d/91c845853e2a1ef0.js?v=3";
-      new Runtime().module(define, (name) => {
-        if (name === "viewof selectWeek")
-          return Inspector.into(".viewof-selectWeek")();
-        if (name === "viewof selectChannel")
-          return Inspector.into(".viewof-selectChannel")();
-        if (name === "chart") return Inspector.into(".chart")();
-        return ["filteredData"].includes(name) || null;
+      const main = new Runtime().module(define, (name) => {
+        if (name === "viewof view") return Inspector.into(".viewof-view")();
       });
+
+      main.redefine('url', 'https://github.com/ylzhang29/UpstateSU-GRU-Covid/blob/main/Forecast/new_forecast.csv?raw=true')
     </script>
   </body>
 </html>
