@@ -12,7 +12,7 @@ Methods: County-level COVID-19 forecast using recurrent neural network seq2seq m
 
 ### Visualize Additional Forecast Results
 
-[County-Level Predictions of R values and Deaths For The Next 4 Weeks on Chloropleth US Map](https://ylzhang29.github.io/UpstateSU-GRU-Covid)
+[County-Level Predictions of R values, Cases and Deaths For The Next 4 Weeks on Chloropleth US Map](https://ylzhang29.github.io/UpstateSU-GRU-Covid)
 
 [<img src="https://github.com/ylzhang29/UpstateSU-GRU-Covid/blob/main/docs/map-icon.png" width=400>](https://ylzhang29.github.io/UpstateSU-GRU-Covid)
 
