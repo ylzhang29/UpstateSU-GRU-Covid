@@ -7,4 +7,4 @@ defaults:
     scope:
       paths: ""
     values:
-      layout: "page"
+      layout: "default"
