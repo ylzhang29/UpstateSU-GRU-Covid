@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 
 # UpstateSU-GRU COVID-19 Forecast
