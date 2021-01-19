@@ -1,0 +1,10 @@
+name: UpstateSU-GRU COVID Forecast
+description: By the SUNY Upstate and SU Covid-19 Prediction Team
+show_downloads: false
+theme: slate
+defaults:
+  -
+    scope:
+      paths: ""
+    values:
+      layout: "default"

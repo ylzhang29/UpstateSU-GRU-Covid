@@ -1,3 +1,6 @@
+---
+---
+
 # UpstateSU-GRU COVID-19 Forecast
 COVID-19 Forecast from SUNY Upstate Medical University and Syracuse University Team
 
