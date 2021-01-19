@@ -22,7 +22,7 @@ Methods: County-level COVID-19 forecast using recurrent neural network seq2seq m
 #### Visualize How Our Model Contributed To The Ensemble Model That CDC Uses (https://viz.covid19forecasthub.org/)
    * Additional Information on the Ensemble Forecast And Participating Teams (The COVID-19 Forecat Hub by The Reich Lab) (https://github.com/reichlab/covid19-forecast-hub/blob/master/README.md)
 
-
+  ##### Link to CDC COVID-19 Forecast for US, states and counties: cases (https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/forecasts-cases.html) and deaths (https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
 
 #### UpstateSU Team Members: 
   * Yanli Zhang-James (SUNY Upstate Medical University) <zhangy@upstate.edu>, 
