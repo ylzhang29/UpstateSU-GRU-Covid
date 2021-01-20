@@ -16,7 +16,7 @@ Onondaga County Incident Cases and Deaths 30 Day Forecast:
 
 [<img src="https://raw.githubusercontent.com/ylzhang29/UpstateSU-GRU-Covid/main/docs/map-icon.png" width=1200>](https://ylzhang29.github.io/UpstateSU-GRU-Covid/map)
 
-#### Visualize How Our Model Contributed To The Ensemble Model That CDC Uses (https://viz.covid19forecasthub.org/)
+#### [Visualize How Our Model Contributed To The Ensemble Model That CDC Uses](https://viz.covid19forecasthub.org/)
 
 ##### Additional Information on the Ensemble Forecast And Participating Teams
 
