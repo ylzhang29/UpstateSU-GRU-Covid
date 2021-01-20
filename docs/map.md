@@ -10,7 +10,7 @@ layout: default
     Library,
   } from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
   import define from "https://api.observablehq.com/d/91c845853e2a1ef0.js?v=3";
-  import MapInspector from 'assets/js/MapInspector.js';
+  import MapInspector from './assets/js/MapInspector.js';
 
   const stdlib = new Library()
   
