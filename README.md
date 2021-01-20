@@ -27,7 +27,7 @@ Onondaga County Incident Cases and Deaths 30 Day Forecast:
 
 #### UpstateSU Team Members:
 
-- [Yanli Zhang-James (SUNY Upstate Medical University)]<zhangy@upstate.edu>,
+- Yanli Zhang-James (SUNY Upstate Medical University) <zhangy@upstate.edu>,
 - Asif Salekin (Syracuse University) <asalekin@syr.edu>,
 - Jonathan Hess (SUNY Upstate Medical University) <hessjlmsg@gmail.com>,
 - Samuel Chen (SUNY Upstate Medical University) <ChenSa@upstate.edu>,
