@@ -15,7 +15,7 @@ layout: default
   const stdlib = new Library()
   
   const width = stdlib.Generators.observe(c => {
-    const container = document.querySelector('.main_content')
+    const container = document.querySelector('#main_content')
     const handleResize = () => c(container.offsetWidth)
     window.addEventListener('resize', handleResize)
     c(container.offsetWidth)
