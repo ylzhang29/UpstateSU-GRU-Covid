@@ -2,7 +2,7 @@
 
 COVID-19 Forecast from SUNY Upstate Medical University and Syracuse University Team
 
-Methods: County-level COVID-19 forecast using recurrent neural network seq2seq model with the Gated recurrent units (GRU)
+Methods: National and county-level COVID-19 forecast using recurrent neural network seq2seq model with the Gated recurrent units (GRU)
 
 ### Forecast Date: Jan 16, 2021
 
@@ -16,14 +16,14 @@ Onondaga County Incident Cases and Deaths 30 Day Forecast:
 
 [<img src="https://raw.githubusercontent.com/ylzhang29/UpstateSU-GRU-Covid/main/docs/map-icon.png" width=1200>](https://ylzhang29.github.io/UpstateSU-GRU-Covid/map)
 
-#### Visualize How Our Model Contributed To The Ensemble Model That CDC Uses (https://viz.covid19forecasthub.org/)
+#### [Visualize How Our Model Contributed To The Ensemble Model That CDC Uses](https://viz.covid19forecasthub.org/)
 
 ##### Additional Information on the Ensemble Forecast And Participating Teams
 
-- Forecasting team and assumptions (https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html#forecastassumptions)
-- The COVID-19 Forecat Hub by The Reich Lab (https://github.com/reichlab/covid19-forecast-hub/blob/master/README.md)
+- [Forecasting team and assumptions](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html#forecastassumptions)
+- [The COVID-19 Forecat Hub by The Reich Lab](https://github.com/reichlab/covid19-forecast-hub/blob/master/README.md)
 
-##### Links to CDC COVID-19 Weekly Forecast for US, states and counties: cases (https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/forecasts-cases.html) and deaths (https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
+##### Links to CDC COVID-19 Weekly Forecast for US, states and counties: [cases](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/forecasts-cases.html) and [deaths](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
 
 #### UpstateSU Team Members:
 
