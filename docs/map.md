@@ -19,7 +19,7 @@ layout: default
     const handleResize = () => c(container.offsetWidth)
     window.addEventListener('resize', handleResize)
     c(container.offsetWidth)
-    return window.removeEventListener('resize', handleResize)
+    return () => window.removeEventListener('resize', handleResize)
   })
 
   const runtime = new Runtime(Object.assign(stdlib, { width: width || 640 }))
