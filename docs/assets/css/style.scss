@@ -11,12 +11,16 @@ img {
   -ms-box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
 }
 
+form {
+  background: #ffffff;
+}
+
 #header_wrap .inner,
 #main_content {
   max-width: 800px;
 }
 
-#main_content_wrap .outer {
+#main_content_wrap.outer {
   background: #ffffff;
 }
 
