@@ -4,11 +4,11 @@ COVID-19 Forecast from SUNY Upstate Medical University and Syracuse University T
 
 Methods: National and county-level COVID-19 forecast using recurrent neural network seq2seq model with the Gated recurrent units (GRU)
 
-### Forecast Date: Jan 16, 2021
+### 30 Days Ahead Forecast of Cases, Deaths and R
 
-[Onondaga County Incident Cases and Deaths 30 Day Forecast](https://ylzhang29.github.io/UpstateSU-GRU-Covid/forecast)
+[View County-Level Forecast](https://ylzhang29.github.io/UpstateSU-GRU-Covid/forecast)
 
-[<img src="https://raw.githubusercontent.com/ylzhang29/UpstateSU-GRU-Covid/main/Forecast/Onondaga_cases_deaths_30days.jpg" width="1000" alt="chart">](https://ylzhang29.github.io/UpstateSU-GRU-Covid/forecast)
+[<img src="https://raw.githubusercontent.com/ylzhang29/UpstateSU-GRU-Covid/main/Forecast/County_chart.png" width="800" alt="chart">](https://ylzhang29.github.io/UpstateSU-GRU-Covid/forecast)
 
 ### Visualize Additional Forecast Results
 
