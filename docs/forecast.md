@@ -22,6 +22,6 @@ const width = stdlib.Generators.observe(c => {
 const runtime = new Runtime(Object.assign(stdlib, { width }))
 
 const main = runtime.module(define, name => {
-  if (name === "viewof view") return Inspector.into(".viewof-view")();
+  if (name === "viewof view") return new Inspector(".viewof-view");
 });
 </script>
