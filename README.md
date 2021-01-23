@@ -8,7 +8,7 @@ Methods: National and county-level COVID-19 forecast using recurrent neural netw
 
 Onondaga County Incident Cases and Deaths 30 Day Forecast:
 
-<img src="https://raw.githubusercontent.com/ylzhang29/UpstateSU-GRU-Covid/main/Forecast/Onondaga_cases_deaths_30days.jpg" width="850" alt="chart">
+<img src="https://raw.githubusercontent.com/ylzhang29/UpstateSU-GRU-Covid/main/Forecast/Onondaga_cases_deaths_30days.jpg" width="1000" alt="chart">
 
 ### Visualize Additional Forecast Results
 
@@ -20,7 +20,7 @@ Onondaga County Incident Cases and Deaths 30 Day Forecast:
 
 ##### Additional Information on the Ensemble Forecast And Participating Teams
 
-- [Forecasting team and assumptions](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html#forecastassumptions)
+- [CDC Ensemble Model Forecasting team and assumptions](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html#forecastassumptions)
 - [The COVID-19 Forecat Hub by The Reich Lab](https://github.com/reichlab/covid19-forecast-hub/blob/master/README.md)
 
 ##### Links to CDC COVID-19 Weekly Forecast for US, states and counties: [cases](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/forecasts-cases.html) and [deaths](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
