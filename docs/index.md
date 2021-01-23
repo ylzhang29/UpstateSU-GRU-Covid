@@ -6,9 +6,9 @@ National and county-level COVID-19 forecast using recurrent neural network seq2s
 
 ### Forecast Date: Jan 16, 2021
 
-Onondaga County Incident Cases and Deaths 30 Day Forecast:
+[Onondaga County Incident Cases and Deaths 30 Day Forecast](https://ylzhang29.github.io/UpstateSU-GRU-Covid/forecast)
 
-<img src="https://raw.githubusercontent.com/ylzhang29/UpstateSU-GRU-Covid/main/Forecast/Onondaga_cases_deaths_30days.jpg" width="1000" alt="chart">
+[<img src="https://raw.githubusercontent.com/ylzhang29/UpstateSU-GRU-Covid/main/Forecast/Onondaga_cases_deaths_30days.jpg" width="1000" alt="chart">](https://ylzhang29.github.io/UpstateSU-GRU-Covid/forecast)
 
 ### Visualize Additional Forecast Results
 
