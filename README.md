@@ -4,11 +4,11 @@ COVID-19 Forecast from SUNY Upstate Medical University and Syracuse University T
 
 Methods: National and county-level COVID-19 forecast using recurrent neural network seq2seq model with the Gated recurrent units (GRU)
 
-### 30 Days Ahead Forecast of Cases, Deaths and R
+### Forecasts: 30 Days Ahead Cases, Deaths and R
 
 [View County-Level Forecast](https://ylzhang29.github.io/UpstateSU-GRU-Covid/forecast)
 
-[<img src="https://raw.githubusercontent.com/ylzhang29/UpstateSU-GRU-Covid/main/Forecast/County_chart.png" width="800" alt="chart">](https://ylzhang29.github.io/UpstateSU-GRU-Covid/forecast)
+[<img src="https://raw.githubusercontent.com/ylzhang29/UpstateSU-GRU-Covid/main/Forecast/County_chart.png" width="500" alt="chart">](https://ylzhang29.github.io/UpstateSU-GRU-Covid/forecast)
 
 ### Visualize Additional Forecast Results
 
