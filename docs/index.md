@@ -8,7 +8,7 @@ National and county-level COVID-19 forecast using recurrent neural network seq2s
 
 [Onondaga County Incident Cases and Deaths 30 Day Forecast](https://ylzhang29.github.io/UpstateSU-GRU-Covid/forecast)
 
-[<img src="https://raw.githubusercontent.com/ylzhang29/UpstateSU-GRU-Covid/main/forecast-icon.png" width="1000" alt="chart">](https://ylzhang29.github.io/UpstateSU-GRU-Covid/forecast)
+[<img src="https://raw.githubusercontent.com/ylzhang29/UpstateSU-GRU-Covid/main/docs/forecast-icon.png" width="1000" alt="chart">](https://ylzhang29.github.io/UpstateSU-GRU-Covid/forecast)
 
 ### Visualize Additional Forecast Results
 
