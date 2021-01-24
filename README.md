@@ -8,7 +8,7 @@ Methods: National and county-level COVID-19 forecast using recurrent neural netw
 
 [View County-Level Forecast](https://ylzhang29.github.io/UpstateSU-GRU-Covid/forecast)
 
-[<img src="https://raw.githubusercontent.com/ylzhang29/UpstateSU-GRU-Covid/main/Forecast/County_chart.png" width="500" alt="chart">](https://ylzhang29.github.io/UpstateSU-GRU-Covid/forecast)
+[<img src="https://raw.githubusercontent.com/ylzhang29/UpstateSU-GRU-Covid/main/docs/forecast-icon.png" width="1000" alt="chart">](https://ylzhang29.github.io/UpstateSU-GRU-Covid/forecast)
 
 ### Visualize Additional Forecast Results
 
