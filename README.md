@@ -6,7 +6,7 @@ Methods: National and county-level COVID-19 forecast using recurrent neural netw
 
 ### Forecasts: 30 Days Ahead Cases, Deaths and R
 
-[View County-Level Forecast](https://ylzhang29.github.io/UpstateSU-GRU-Covid/forecast)
+[View US National And County-Level Forecast](https://ylzhang29.github.io/UpstateSU-GRU-Covid/forecast)
 
 [<img src="https://raw.githubusercontent.com/ylzhang29/UpstateSU-GRU-Covid/main/docs/forecast-icon.png" width="1000" alt="chart">](https://ylzhang29.github.io/UpstateSU-GRU-Covid/forecast)
 
