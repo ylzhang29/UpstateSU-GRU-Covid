@@ -31,5 +31,7 @@ National and county-level COVID-19 forecast using recurrent neural network seq2s
 - Asif Salekin (Syracuse University) <asalekin@syr.edu>,
 - Jonathan Hess (SUNY Upstate Medical University) <hessjlmsg@gmail.com>,
 - Samuel Chen (SUNY Upstate Medical University) <ChenSa@upstate.edu>,
+- Dongliang Wang (SUNY Upstate Medical University) <WangD@upstate.edu>, 
+- Christopher P. Morley (SUNY Upstate Medical University) <MorleyCP@upstate.edu>,
 - Stephen V Faraone (SUNY Upstate Medical University) <sfaraone@childpsychresearch.org>
 
