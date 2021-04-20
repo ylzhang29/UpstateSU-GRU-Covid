@@ -54,7 +54,7 @@ id = demo.filter(['s_county'], axis=1).drop_duplicates()
 print("In Demo file: unique numbers of region names", len(id['s_county'].unique()))
 
 ### READ long DATASET Covid ###
-with open('JH_0328.csv', newline='') as csvfile:
+with open('JH_0411.csv', newline='') as csvfile:
     covid = pd.read_csv(csvfile)
 
 covid = covid.drop(['combined_key', 'total_days_cases', 'total_days_mb'], axis=1)
