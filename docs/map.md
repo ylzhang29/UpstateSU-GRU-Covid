@@ -28,5 +28,4 @@ layout: default
     if (name === "viewof view") return new Inspector(".viewof-view");
   });
 
-  main.redefine('url', 'https://raw.githubusercontent.com/ylzhang29/UpstateSU-GRU-Covid/main/Forecast/new_forecast.csv')
 </script>
