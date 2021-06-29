@@ -4,6 +4,8 @@ layout: default
 
 National and county-level COVID-19 forecast using recurrent neural network seq2seq model with the Gated recurrent units (GRU)
 
+View our historical performance [Click Here](https://ylzhang29.github.io/UpstateSU-GRU-Covid/performance)
+
 ### Forecasts: 30 Days Ahead Cases, Deaths and R
 
 [View US National and County-Level Forecast](https://ylzhang29.github.io/UpstateSU-GRU-Covid/forecast)
