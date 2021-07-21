@@ -3,6 +3,7 @@ layout: default
 ---
 
 National and county-level COVID-19 forecast using recurrent neural network seq2seq model with the Gated recurrent units (GRU)
+Details see https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8077584/
 
 ### Historical Performance between January 1st, 2021 & May 1st, 2021
 
