@@ -5,7 +5,7 @@ COVID-19 Forecast from SUNY Upstate Medical University and Syracuse University T
 Methods: National and county-level COVID-19 forecast using recurrent neural network seq2seq model with the Gated recurrent units (GRU)
 
 
-### Historical Performance between January 1st, 2021 & May 31st, 2021
+### Historical Performance between January 1st, 2021 & May 1st, 2021
 
 ##### Prediction of incident cases
 
